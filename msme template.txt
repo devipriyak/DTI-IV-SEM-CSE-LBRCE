@@ -1,0 +1,77 @@
+Title of proposed idea/innovation
+
+
+
+2.2 Whether the idea involves use of existing intellectual property or not, give brief detail there of
+
+
+
+
+2.3 Briefly explain newness/uniqueness of the innovation
+
+
+
+
+2.4 Concept & Objective
+
+
+
+
+2.5 Specify the potential areas of application in industry/market in brief
+
+
+
+
+
+2.6 Briefly provide the market data for the potential idea/ innovation
+
+2.7 Name and details of Mentors
+
+
+2.11 Expected time of completion of idea
+
+2.12 Problem Statements
+2.13 Idea Sector-Miscellaneous Sector (Environment, Forests, Water & Sanitation; Foods, Beverages, FMCG, Consumer Goods; Infrastructure, Construction, Housing; IT, ITES, Electronics, White Goods, Telecommunication; Metals, Engineering, Machinery, Automation and Transportation, Automotive, E Vehicles, Railways, Aviation, UAV and any other sub-sector)
+
+
+3. Financial requirements:
+a.Particular/Item (As per the scheme guidelines)	Amount GOI assistance (Rs. In lakh)	Incubatee share (Rs. In lakh)
+Technology related Expenditure towards machine usage charges etc., Electricity charges, Procurement of raw material , testing/Calibration charges, other charges essential for development of idea
+
+4. Other students/Entrepreneurs associated with this project/idea
+
+5. Summary of the idea. This is the section reviewers read to understand the technical solution. Please state the solution clearly. Reviewers may ask: What is the actual technical advancement or improvement provided by this solution?
+
+
+8. Background for getting the idea?
+a. Who is it for?
+
+b. What will it do?
+
+c. Any unique features? Explain?
+
+
+9. How simple or complex will the idea’s execution or implementation be? What are the risk factors involved in executing the idea?
+
+
+10. How soon could the idea be put into operation? (TRL of prototype)
+
+
+
+11. How much investment would you need for prototyping of the Idea?
+
+
+12. (a) How do you intend to protect your idea (i.e. your intellectual property or IP)? Status of IPR (If any)
+
+
+
+
+(b) Related Background This section is used to highlight information that can be used by the reviewers or patent attorney to help put the solution in proper context. You can think of this section as something similar to the introduction section of an academic publication. This section is specifically reserved for other people’s work (please include competitive work) as well as your past work that you believe will aid the reviewers in understanding the technical landscape. Data related to or supporting your solution should NOT be in this section, it should be in Section III: “How is this Solution Made and Used.”
+
+
+
+
+13.How is This Project Made and Used: Please describe in as much detail as possible how the innovation is implemented. This includes details on how you actually make, assemble, synthesize, or build the solution and details on how the solution is used once it is made. Reviewers will ask: How does the technical innovation actually work – or – what is the detailed process to achieve the technical innovation? Please help convince the reviewers with supporting statements using as much of the following that is available: your thoughts, logic, supporting literature, and/or experiments.
+
+
+Upload Block diagram/ flow chart/ Circuit Diagram/Pictures
